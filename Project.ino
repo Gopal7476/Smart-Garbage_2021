@@ -1,8 +1,8 @@
 //Including libraries
 #include<ESP8266WiFi.h>  // Library for ESP8266 WiFi
 
-const char *ssid="Rajee";  //  local WiFi name  ssid(service set identifier)
-const char *pwd="Rajee@172730";  // local WiFi pwd(password)
+const char *ssid="*****";  //  local WiFi name  ssid(service set identifier)
+const char *pwd="*****";  // local WiFi pwd(password)
 
 void setup() {
   Serial.begin(9600);  //to STARTS serial communication
